@@ -3,7 +3,7 @@
 <!-- Top Dashboard Gallery -->
 <p float="left">
   <img src="images/distribution_of_median_house_value.png" width="45%" />
-  <img src="images/median_vs_median.png" width="45%" />
+  <img src="images/median_income_vs_median.png.png" width="45%" />
 </p>
 
 <p float="left">
