@@ -47,8 +47,4 @@ This project explores the California housing dataset to understand the factors a
 ## Conclusion
 This analysis demonstrates how data visualization can uncover patterns in real estate data. Insights gained here can support investment decisions, urban planning, and understanding socio-economic trends in California housing.
 
-
-
-
-![Housing Map](images/distribution_by_ocean_proximity.png)
   
